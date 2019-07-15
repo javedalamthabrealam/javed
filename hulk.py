@@ -15,3 +15,18 @@ else:
     if s[i]!=l[i]:
       m+=1
   print(m)
+  dnbvfjnbdfnbnf
+  dfbjkfb
+  fbdfnbnbnf
+  fbdfbmdfb
+  dfbfbf
+  bdf
+  bdfbfb
+  dfb
+  df
+  bfb
+  dfb
+  df
+  bdf
+  bvdf
+  bdf
