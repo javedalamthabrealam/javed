@@ -14,4 +14,4 @@ else:
   for i in range(len(s)):
     if s[i]!=l[i]:
       m+=1
-  print(m)ghjfdgsdgvfasdcvasdv sdfvdefwe
+  print(m)
