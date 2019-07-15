@@ -7,7 +7,7 @@ for _ in range(n):
 
 min_str=min(l)                #take maxmum value
 demo=words[l.index(min_str)] 
-words.pop(l.index(min_str))
+words.pop(l.index(min_str))hu9gbguiwefbuisdff
 value=''
 for i in range(len(demo)+1):
     for now in words:
