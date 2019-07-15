@@ -9,3 +9,4 @@ while x<len(a):
 for x in range(x,len(b)):
 	  m += ord(b[x])-ord('a')+1
 print(m)
+fbg
