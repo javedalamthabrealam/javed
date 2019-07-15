@@ -1,4 +1,4 @@
-n=input()
+n=raw_input()
 if n%4==0:
     print("yes")
 else:
