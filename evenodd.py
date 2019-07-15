@@ -1,7 +1,7 @@
 n=raw_input()
 if n%2==0:
     print("Even")
-elif n<0:
-    print("Invalid")
-else:
+elif n%2==1:
     print("Odd")
+else:
+    print("Invalid")
