@@ -10,4 +10,4 @@ while s<len(m)-1 and n:
 	else:
 		s+=1
 q=m[:len(m)-n]
-print(q)
+print(q)nhoii
