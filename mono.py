@@ -3,4 +3,4 @@ chat=int(input())
 if chat%2==0:
     print(chat*(chat//2)-(chat//2))
 else:
-    print(chat*(chat//2))klmoo jubhyug7ghh
+    print(chat*(chat//2))
