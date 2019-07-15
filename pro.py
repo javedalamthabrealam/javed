@@ -11,4 +11,3 @@ while s<len(m)-1 and n:
 		s+=1
 q=m[:len(m)-n]
 print(q)
-gduyvgfevfhuvgevefefefhyweergeryvgfv 7
