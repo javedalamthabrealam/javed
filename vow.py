@@ -1,7 +1,5 @@
-n = raw_input()
-if(n=='a' or n=='e' or n=='i' or n=='o' or n=='u'):
-    print("vowel")
-elif(n>=0 or n<=9):
-    print("Consonant")
+ch = raw_input()
+if ((ch>='a' and ch<='z')or(ch>='A' and ch<='Z')):
+    print("Alphabet")
 else:
-    print("consonant")
+    print("No")
