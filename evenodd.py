@@ -1,6 +1,7 @@
-print("enter a number")
 n=raw_input()
 if n%2==0:
-    print("even")
+    print("Even")
+elif n<0:
+    print("Invalid")
 else:
-    print("odd")
+    print("Odd")
