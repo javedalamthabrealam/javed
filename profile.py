@@ -5,4 +5,3 @@ elif(a2%(b2+c2)==0):
   print("YES")
 else:
   print("NO")
-  jklits
