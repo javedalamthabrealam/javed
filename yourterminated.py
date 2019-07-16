@@ -7,3 +7,4 @@ for i in range(len(l1)):
   for i in range(i+1,len(l1)):
     c1+=1
 print(c1)
+jbhbbhuiuiuibbbniinnnjnjn
