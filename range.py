@@ -1,15 +1,15 @@
-n=int(input())
-l=[]
-m=len(str(n))
-s=0
-for _ in range(m):
-	s+=9
-for i in range(n-s,n):
-	r=0
-	d=i
-	while(d>0):
-		r+=(d%10)
-		d=d//10
-	if(r+i==n):
-		l.append(i)
-print(len(1),*1,sep='\n')
+inp=int(input())
+ii=0
+xy=0
+b=[]
+while ii<90 and ii<inp:
+  s=0
+  for j in str(inp-ii):
+    s+=int(j)
+  if s+(inp-ii)==inp:
+    xy+=1
+    b.append(inp-ii)
+  ii+=1
+print(xy)
+for ii in b:	
+	print(ii)
