@@ -1,4 +1,4 @@
-nin,kin=map(int,input.split())
+nin,kin=input.split()
 l=list(map(int,input.split()))
 c=0
 for i in l:
