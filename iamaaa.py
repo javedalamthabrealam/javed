@@ -10,4 +10,3 @@ for i in range(0,len(sk[0])):
       sk[j][i],sk[j+1][i]=sk[j+1][i],sk[j][i]
 for i in sk:
   print(*i)
-  vfjiorgtjiopj9ythhpjoythytpkoyt
