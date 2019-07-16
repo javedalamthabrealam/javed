@@ -4,7 +4,7 @@ list1=list(inp)
 list1.sort()
 lst=list(str1)
 lst.sort()
-if(lst==lst1):
+if(lst==list1):
   print("yes")
 else:
   print("no")
