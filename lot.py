@@ -1,7 +1,8 @@
-o,p=map(int,input().split())
-a=list(map(int,input().split()))
-b=[]
-for i in range(p):
-  e,r=map(int,input().split()))
-  b.append(min(a[e-1:r]))
-print(*b,sep="\n")
+a,b=map(int,input().split())
+arr=list(map(int,input().split(None,a)[:a]))
+f=[]
+for i in range(b):
+  c,d=map(int,input().split()))
+  f.append(min(arr[c-1:d]))
+for i in f:
+  print(i)
