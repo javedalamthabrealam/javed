@@ -6,7 +6,7 @@ def sub(a):
             if a[i] > a[j] and sub[i]< sub[j] + 1 : 
                 sub[i] = sub[j]+1
     maximum = 0
-    for i in range(num): 
+    for i in range(n): 
         maximum = max(maximum , sub[i])  
     return maximum
 
